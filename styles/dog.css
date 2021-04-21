@@ -1,0 +1,30 @@
+.head {
+    display:flex;
+    background-color:beige;
+    border: 2px solid black;
+}
+body {
+    display:flex;
+    flex-direction:column;
+    align-content:space-between;
+    min-height: 55em;
+    justify-content: space-around;
+    background-color:rgb(152, 152, 255);
+
+}
+.dog_logo {
+    margin-right:250px;
+}
+.title {
+   display:flex;
+   align-self:center;
+   margin-left:160px;
+}
+section {
+    background-color:rgb(223, 223, 223);
+    border: 2px solid black;
+}
+footer {
+    background-color:beige;
+    border: 2px solid black;
+}
