@@ -32,6 +32,12 @@
 
 .breed_img {
     width: 250px;
+    border-radius: 20px;
+    transition-duration: 250ms;
+}
+
+.breed_img:hover {
+    transform: rotate(30deg);
 }
 
 .owner_tip {
@@ -41,6 +47,7 @@
 .middle_img {
     width: 100%;
     height: 120px;
+    border-radius: 20px;
 }
 
 .attact_tip {

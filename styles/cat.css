@@ -40,6 +40,12 @@ main {
 
 .nav_list {
     padding: 10px;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: 900;
+}
+
+li {
+    padding: 10px;
 }
 
 .giphy-embed {
