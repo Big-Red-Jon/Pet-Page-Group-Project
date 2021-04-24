@@ -67,7 +67,20 @@ h3 {
     border: 2px solid black;
     margin: 1rem auto;
     width: 80%;
-    padding: 1rem;
+    height: 150px;
+    padding: 1rem 2rem 4rem 2rem;
+    background-color: lightskyblue;
+    border-radius: 15%;
+    opacity: 0.6;
+}
+
+.final-blurb {
+    flex: 1;
+    border: 2px solid black;
+    margin: 1rem auto;
+    width: 80%;
+    height: 50px;
+    padding: 3rem;
     background-color: lightskyblue;
     border-radius: 15%;
     opacity: 0.6;
